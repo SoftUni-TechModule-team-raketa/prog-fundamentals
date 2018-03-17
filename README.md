@@ -23,7 +23,8 @@ format:
 #### Examples
 | **Input** | **Output** |
 | ----------------- | -----------------  |
-| Nuka-Cola<br> 220<br> 300<br> 70<br> | 220ml Nuka-Cola:<br> 660kcal, 154g sugar |
+| Nuka-Cola         
+<br> 220<br> 300<br> 70<br> | 220ml Nuka-Cola:<br> 660kcal, 154g sugar |
 
 
 | **Input** | **Output** |
