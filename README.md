@@ -10,8 +10,7 @@ Write a program, which receives **4**** integers **on the console and** prints t
 | 91824221123 | 9182 4221 0012 0003 |
 | 81232112322 | 0812 0321 0123 0022 |
 
-### Problem 4. 
-\* Beverage Labels
+### Problem 4.  \* Beverage Labels
 
 Write a program, which reads a food product **name**, **volume**, **energy content per 100ml and sugar content per
 100ml** and **sugar content per 100ml**. Calculate the **energy** and **sugar content** for the **given volume** and print them on the console in the following
@@ -33,7 +32,6 @@ format:
 
 | **Input** | **Output** |
 | --------- | ---------- |
-
 | Nuka-Cola Quantum<br> 350<br> 600<br> 140<br> | 350ml Nuka-Cola Quantum:<br> 2100kcal, 490g sugars |
 
 1. Problem 5.\* Character Stats
