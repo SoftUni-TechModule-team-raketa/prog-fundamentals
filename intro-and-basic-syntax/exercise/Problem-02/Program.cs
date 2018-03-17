@@ -12,12 +12,11 @@ namespace BeverageLabels
             var sugarPer100Ml = int.Parse(Console.ReadLine());
             // reading user input for product info
 
-            var totalEnergy = (energyPer100Ml * volume) / 100.0; 
+            var totalKcal = (energyPer100Ml * volume) / 100.0; 
             var totalSugar = (sugarPer100Ml * volume) / 100.0; 
 
             Console.WriteLine($"{volume}ml {productName}:");
-            Console.WriteLine($"{totalEnergy}kcal, {totalSugar}g sugars");
-
+            Console.WriteLine($"{totalKcal}kcal, {totalSugar}g sugars");
         }
     }
 }
