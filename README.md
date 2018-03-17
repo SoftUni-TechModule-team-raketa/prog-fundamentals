@@ -23,7 +23,25 @@ format:
 #### Examples
 | **Input** | **Output** |
 | ----------------- | -----------------  |
-| Nuka-Cola--------<br> 220<br> 300<br> 70<br> | 220ml Nuka-Cola:<br> 660kcal, 154g sugar |
+| Nuka-Cola<br> 220<br> 300<br> 70<br> | 220ml Nuka-Cola:<br> 660kcal, 154g sugar |
+
+------------------------------------------
+**Input**         **Output**
+----------------- ------------------------
+Nuka-Cola Quantum 350ml Nuka-Cola Quantum:
+350               2100kcal, 490g sugars
+600
+140
+------------------------------------------
+
+------------------------------------------
+**Input**         **Output**
+----------------- ------------------------
+Nuka-Cola         350ml Nuka-Cola Quantum:
+350               2100kcal, 490g sugars
+600
+140
+------------------------------------------
 
 
 | **Input** | **Output** |
