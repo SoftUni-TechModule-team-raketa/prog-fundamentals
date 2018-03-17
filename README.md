@@ -21,23 +21,28 @@ format:
 * Sugar content - **real number**, **suffixed** by "**g**" (e.g. "**30g**")
 
 #### Examples
-| **Input** | **Output** |
-| ----------------- | -----------------  |
-| Nuka-Cola<br> 220<br> 300<br> 70<br> | 220ml Nuka-Cola:<br> 660kcal, 154g sugar |
-| **Input** | **Output** |
-| Ice Cold Nuka-Cola<br> 250<br> 350<br> 65 | 250ml Ice Cold Nuka-Cola:<br> 875kcal, 162.5g sugars |
-| **Input** | **Output** |
-| Nuka-Cola Quantum<br> 350<br> 600<br> 140<br> | 350ml Nuka-Cola Quantum:<br> 2100kcal, 490g sugars |
+| **Input**                                     | **Output**                                           |
+| --------------------------------------------- | ---------------------------------------------------- |
+| Nuka-Cola<br> 220<br> 300<br> 70<br>          | 220ml Nuka-Cola:<br> 660kcal, 154g sugar             |
+| --------------------------------------------- | ---------------------------------------------------- |
+| **Input**                                     | **Output**                                           |
+| --------------------------------------------- | ---------------------------------------------------- |
+| Ice Cold Nuka-Cola<br> 250<br> 350<br> 65     | 250ml Ice Cold Nuka-Cola:<br> 875kcal, 162.5g sugars |
+| --------------------------------------------- | ---------------------------------------------------- |
+| **Input**                                     | **Output**                                           |
+| --------------------------------------------- | ---------------------------------------------------- |
+| Nuka-Cola Quantum<br> 350<br> 600<br> 140<br> | 350ml Nuka-Cola Quantum:<br> 2100kcal, 490g sugars   |
 
-1. Problem 5.\* Character Stats
+### Problem 5.\* Character Stats
 
 Write a program, which **displays information** about a video game character. You will receive their **name** , **current health** , **maximum health** , **current energy** and **maximum energy** on separate lines. The **current** values will **always** be valid ( **equal or lower** than their respective **max** values). Print them in the format as per the examples.
 
 ### Examples
 
-| **Input**   | **Output**         |    | **Input** | **Output** |
-| ---         | ---                |--- | ---       | ---        |
-| Mayro510910 | Name: MayroHealth: ||||||.....|Energy: ||||||||||.| | Bauser10101010 | Name: BauserHealth: ||||||||||||Energy: |||||||||||| |
+| **Input**                       | **Output**                                      |
+| ------------------------------- | ----------------------------------------------- |
+| Mayro<br>5<br>10<br>9<br>10<br> | Name: Mayro<br> Health: \|\|\|\|\|\|.....\|<br> |
+
 
 | **Input** | **Output** |   | **Input** | **Output** |
 | --- | --- | --- | --- | --- |
