@@ -1,6 +1,6 @@
-1. Problem 1.Debit Card Number
+### Problem 1. Debit Card Number
 
-Write a program, which receives **4**** integers **on the console and** prints them **in** 4-digit debit card format**. See the examples below for the appropriate formatting.
+Write a program, which receives **4** integers **on the console and** prints them **in 4-digit debit card format**. See the examples below for the appropriate formatting.
 
 ### Examples
 
@@ -35,8 +35,8 @@ Write a program, which **displays information** about a video game character. Yo
 
 ### Examples
 
-| **Input** | **Output** |   | **Input** | **Output** |
-| --- | --- | --- | --- | --- |
+| **Input**   | **Output**         |    | **Input** | **Output** |
+| ---         | ---                |--- | ---       | ---        |
 | Mayro510910 | Name: MayroHealth: ||||||.....|Energy: ||||||||||.| | Bauser10101010 | Name: BauserHealth: ||||||||||||Energy: |||||||||||| |
 
 | **Input** | **Output** |   | **Input** | **Output** |
