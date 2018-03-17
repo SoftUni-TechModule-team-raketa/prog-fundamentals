@@ -12,6 +12,52 @@ examples below for the appropriate formatting.
 
 **Input**
 
+ 
+
+**Output**
+
+ 
+
+12
+
+433
+
+1
+
+5331
+
+ 
+
+0012 0433 0001 5331
+
+ 
+
+9182
+
+4221
+
+12
+
+3
+
+ 
+
+9182 4221 0012 0003
+
+ 
+
+812
+
+321
+
+123
+
+22
+
+ 
+
+0812 0321 0123 0022
+
 1. Problem 5.\* Character Stats
 
 Write a program, which **displays information** about a video game character. You will receive their **name** , **current health** , **maximum health** , **current energy** and **maximum energy** on separate lines. The **current** values will **always** be valid ( **equal or lower** than their respective **max** values). Print them in the format as per the examples.
