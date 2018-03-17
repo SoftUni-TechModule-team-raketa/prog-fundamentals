@@ -35,14 +35,12 @@ Write a program, which **displays information** about a video game character. Yo
 
 ### Examples
 
-| **Input**                       | **Output**                                      |
-| ------------------------------- | ----------------------------------------------- |
-| Mayro<br>5<br>10<br>9<br>10<br> | Name: Mayro<br> Health: \|\|\|\|\|\|.....\|<br> |
+| **Input**                        | **Output**                                                                  |
+| -------------------------------- | --------------------------------------------------------------------------- |
+| Mayro<br>5<br>10<br>9<br>10<br>  | Name: Mayro<br>Health: \|\|\|\|\|.....\|<br>Energy: \|\|\|\|\|\|\|\|\|.\|   |
+| **Input**                        | **Output**                                                                  |
+| Bauser<br>5<br>10<br>9<br>10<br> | Name: Loogi<br>Health: \|\|\|\|\|\|\|\|\|\|<br>Energy: \|\|\|\|\|\|\|\|\|   |
 
-
-| **Input** | **Output** |   | **Input** | **Output** |
-| --- | --- | --- | --- | --- |
-| Loogi820214 | Name: LoogiHealth: |||||||||............|Energy: |||............| | Toad05010 | Name: ToadHealth: |.....|Energy: |..........| |
 
 ### Hints
 
