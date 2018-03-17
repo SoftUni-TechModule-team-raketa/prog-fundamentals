@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Confirmed from <mayaema>
+using System;
 using System.Linq;
 
 namespace Character_Stats
@@ -7,8 +8,6 @@ namespace Character_Stats
     {
         static void Main()
         {
-			// Confirmed from <mayaema>
-			
             // Read the input in the apropriate types
             var name = Console.ReadLine();
             var currentHealth = int.Parse(Console.ReadLine());
